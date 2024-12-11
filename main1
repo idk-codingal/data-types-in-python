@@ -1,0 +1,15 @@
+x = "hello world"
+y = " I am Goku"
+a = 234.789
+c = 34567978776776
+b = True 
+r = False
+print(x)
+print(y)
+print(a)
+print(c)
+print(b)
+print(r)
+print("type of x: ", type(x))
+print("type of y: ", type(y))
+print("type of a: ", type(a))
